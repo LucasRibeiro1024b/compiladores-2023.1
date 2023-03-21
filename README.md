@@ -1,0 +1,1 @@
+Disciplina de Compiladores 2023.2 da Universidade Estadual do Vale do Acaraú
